@@ -1,0 +1,16 @@
+{
+"name": "www38thcc",
+"theme": "www38thcc",
+"version": "9.7.4",
+"description": "www38thcc ทางเข้าหลักเว็บคาสิโนเว็บตรง ไม่มีขั้นต่ำ รับเครดิตฟรี",
+"keywords": [
+"www38thcc",
+"www38thcc เครดิตฟรี",
+"www38thcc ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/www38thcc",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
